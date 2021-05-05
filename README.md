@@ -1,5 +1,7 @@
-### 大家好👋 我是Sean，一名Java后端开发工程师，也略懂一些前端。
-- 我最近在做服务关系依赖图谱的开发
+大家好👋 我是Sean，一名Java后端开发工程师，也略懂一些前端。
+## Contact me
+1. [博客园](https://www.cnblogs.com/Johnsoon92/)
+2. WeChat:programmer_shunshun
 <!--
 **Johnsoon92/Johnsoon92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
