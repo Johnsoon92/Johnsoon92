@@ -1,7 +1,8 @@
 大家好👋 我是Sean，一名Java后端开发工程师，也略懂一些前端。
 ## Contact me
 1. [博客园](https://www.cnblogs.com/Johnsoon92/)
-2. WeChat:programmer_shunshun
+2. WeChat:程序员顺顺
+3. [语雀](https://www.yuque.com/chengxuyuanshunshun)
 <!--
 **Johnsoon92/Johnsoon92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
